@@ -39,23 +39,24 @@ Product 10: "Speakers", 9.99
 # Here's The Query Table.
 
 ## Task 1.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20product%20tbl.png)
+![image](https://github.com/user-attachments/assets/aeda0bbc-e7db-468a-a685-2b11a2f1f452)
+
 
 ## Task 2.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%202.png)
+![image](https://github.com/user-attachments/assets/14462877-dfaa-4617-8ac2-eff43a9cf2aa)
+
 
 ## Task 3.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%203.png)
+![image](https://github.com/user-attachments/assets/b22c50ba-e530-4d1b-bbc4-c2fc79431f6b)
 
 ## Task 4. 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/Task%204.png)
+![image](https://github.com/user-attachments/assets/b61dd9f0-aae7-44e2-97a5-90a16a8ba7b3)
+
 
 # Here's The Table Structure.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20product%20tbl%202.png)
-
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20table%20structure.png)
+![image](https://github.com/user-attachments/assets/35dd6fd3-2cf5-466f-b29f-00199deae04d)
 
 # ER Diagram.
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/3%20ER%20.png)
+![image](https://github.com/user-attachments/assets/41f7a249-bcae-4168-abec-412d19a11d9a)
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
